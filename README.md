@@ -1,6 +1,5 @@
-# Hello World
+#Hello World
+A helloworld python standalone program
 
-This is the Github repository for Hello World project
-
-## To Run:
+##How to run
 $ python hello_world.py
